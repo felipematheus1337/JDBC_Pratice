@@ -1,2 +1,5 @@
 # JDBC_Pratice
-JDBC
+<hr>
+
+Utilizando JDBC, Banco de dados utilizado : MySQL.
+### CRUD.
